@@ -1,0 +1,25 @@
+
+@font-face{
+    font-family: miEstilo;
+    src: url("../fuentes/Olive01.otf");
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: miEstilo2;
+    src: url("../fuentes/Olive02.ttf");
+    font-weight: 900;
+}
+
+@media screen {
+    
+}
+
+h1{
+    font-family: miEstilo;
+    font-weight: 500;
+}
+h2{
+    font-family: miEstilo2;
+    font-weight: 900;
+}
